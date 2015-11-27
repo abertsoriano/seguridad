@@ -1,5 +1,5 @@
-<?php include 'tpl/header.tpl.html' ?>
-<div class="breadcrumbs">
+<?php include 'tpl/header.tpl.php' ?>
+<div class="breadcrumbs breadcrumbs-dark">
         <div class="container">
             <h1 class="pull-left">Nuestros Servicios</h1>
             <ul class="pull-right breadcrumb">

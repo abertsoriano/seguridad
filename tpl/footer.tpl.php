@@ -34,7 +34,7 @@
                     <div class="col-md-6">
                         <p>
                             Copyright &copy; <?php echo date('Y') ?> - Derechos Reservados  |  CONTROL EMPRESARIAL GROUP SAC
-                           <a href="#">Privacy Policy</a> | <a href="#">Terms of Service</a>
+                           <!-- <a href="#">Privacy Policy</a> | <a href="#">Terms of Service</a> -->
                         </p>
                     </div>
 
@@ -81,12 +81,13 @@
                     <!-- End Social Links -->
                 </div>
             </div>
-        </div><!--/copyright-->
+        </div>
     </div>
-    <!--=== End Footer Version 1 ===-->
-</div><!--/wrapper-->
+</div>
 
 <!-- JS Global Compulsory -->
 <script type="text/javascript" src="assets/plugins/jquery/jquery.min.js"></script>
 <script type="text/javascript" src="assets/plugins/jquery/jquery-migrate.min.js"></script>
 <script type="text/javascript" src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="assets/plugins/back-to-top.js"></script>
+<script type="text/javascript" src="assets/js/custom.js"></script>

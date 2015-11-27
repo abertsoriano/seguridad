@@ -1,7 +1,6 @@
 var ContactForm = function () {
 
     return {
-        
         //Contact Form
         initContactForm: function () {
 	        // Validation
@@ -13,6 +12,10 @@ var ContactForm = function () {
 	                {
 	                    required: true
 	                },
+	                empresa:
+	                {
+	                	required: true
+	                },
 	                email:
 	                {
 	                    required: true,
@@ -22,45 +25,35 @@ var ContactForm = function () {
 	                {
 	                    required: true,
 	                    minlength: 10
-	                },
-	                captcha:
-	                {
-	                    required: true,
-	                    remote: 'assets/plugins/sky-forms-pro/skyforms/captcha/process.php'
 	                }
 	            },
-	                                
+
 	            // Messages for form validation
 	            messages:
 	            {
 	                name:
 	                {
-	                    required: 'Please enter your name',
+	                    required: 'Su nombre es requerido',
 	                },
 	                email:
 	                {
-	                    required: 'Please enter your email address',
-	                    email: 'Please enter a VALID email address'
+	                    required: 'Brindenos su correo electrónico',
+	                    email: 'Por favor, escriba un correo electrónico VÁLIDO'
 	                },
 	                message:
 	                {
-	                    required: 'Please enter your message'
-	                },
-	                captcha:
-	                {
-	                    required: 'Please enter characters',
-	                    remote: 'Correct captcha is required'
+	                    required: 'Favor de escribir su mensaje'
 	                }
 	            },
-	                                
-	            // Ajax form submition                  
+
+	            // Ajax form submition
 	            submitHandler: function(form)
 	            {
 	                $(form).ajaxSubmit(
 	                {
 	                    beforeSend: function()
 	                    {
-	                        $('#sky-form3 button[type="submit"]').attr('disabled', true);
+	                        $('#sky-form3 button[type="submit"]').prop('disabled', true);
 	                    },
 	                    success: function()
 	                    {
@@ -68,7 +61,7 @@ var ContactForm = function () {
 	                    }
 	                });
 	            },
-	            
+
 	            // Do not change code below
 	            errorPlacement: function(error, element)
 	            {
@@ -76,7 +69,5 @@ var ContactForm = function () {
 	            }
 	        });
         }
-
     };
-    
 }();

@@ -23,16 +23,16 @@ var ContactPage = function () {
         },
 
         //Panorama Map
-        initPanorama: function () {
-		    var panorama;
-		    $(document).ready(function(){
-		      panorama = GMaps.createPanorama({
-		        el: '#panorama',
-		        lat : -12.1170128,
-		        lng : -77.0145437
-		      });
-		    });
-		}
+  //       initPanorama: function () {
+		//     var panorama;
+		//     $(document).ready(function(){
+		//       panorama = GMaps.createPanorama({
+		//         el: '#panorama',
+		//         lat : -12.1170128,
+		//         lng : -77.0145437
+		//       });
+		//     });
+		// }
 
     };
 }();
