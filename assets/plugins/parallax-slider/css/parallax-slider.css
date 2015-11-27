@@ -84,7 +84,7 @@
 .da-slide .da-img{
 	text-align: center;
 	width: 50%;
-	top: 80px;
+	top: 36px;
 	height: 328px;
 	line-height: 320px;
 	left: 110%; /*60%*/
@@ -696,7 +696,7 @@
 @media (min-width: 1440px) {
 	.da-slide h2,
 	.da-slide p {
-		margin-left:3%;
+		margin-left:-3%;
 	}
 	.da-slide .da-img{
 		margin-left:-18%;

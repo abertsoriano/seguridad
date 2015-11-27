@@ -1,32 +1,26 @@
 <?php include 'tpl/header.tpl.html' ?>
-    <!--=== Breadcrumbs ===-->
     <div class="breadcrumbs">
         <div class="container">
-            <h1 class="pull-left">Our Contacts</h1>
+            <h1 class="pull-left">Contáctenos</h1>
             <ul class="pull-right breadcrumb">
-                <li><a href="index.html">Home</a></li>
-                <li><a href="#">Pages</a></li>
-                <li class="active">Contacts</li>
+                <li><a href="index.php">Inicio</a></li>
+                <li class="active">Contacto</li>
             </ul>
         </div>
-    </div><!--/breadcrumbs-->
-    <!--=== End Breadcrumbs ===-->
+    </div>
 
-    <!-- Google Map -->
-    <div id="map" class="map">
-    </div><!---/map-->
-    <!-- End Google Map -->
+    <div id="map" class="map"></div>
 
     <!--=== Content Part ===-->
     <div class="container content">
     	<div class="row margin-bottom-30">
     		<div class="col-md-9 mb-margin-bottom-30">
-                <div class="headline"><h2>Contact Form</h2></div>
-                <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas feugiat. Et harum quidem rerum facilis est et expedita distinctio lorem ipsum dolor sit amet, consectetur adipiscing elit landitiis.</p><br />
+                <div class="headline"><h2>Formulario de contacto</h2></div>
+                <p>Su opinión es muy importante para nosotros.<br>Envíenos sus consultas, sugerencias y/o reclamos que los atenderemos a la brevedad posible.</p><br />
 
     			<form action="http://htmlstream.com/preview/unify-v1.8/assets/php/sky-forms-pro/demo-contacts-process.php" method="post" id="sky-form3" class="sky-form contact-style">
                     <fieldset class="no-padding">
-                        <label>Name <span class="color-red">*</span></label>
+                        <label>Nombre <span class="color-red">*</span></label>
                         <div class="row sky-space-20">
                             <div class="col-md-7 col-md-offset-0">
                                 <div>
@@ -34,26 +28,40 @@
                                 </div>
                             </div>
                         </div>
-
-                        <label>Email <span class="color-red">*</span></label>
+                        <label>Empresa <span class="color-red">*</span></label>
                         <div class="row sky-space-20">
                             <div class="col-md-7 col-md-offset-0">
                                 <div>
-                                    <input type="text" name="email" id="email" class="form-control">
+                                    <input type="text" name="empresa" id="empresa" class="form-control">
                                 </div>
                             </div>
                         </div>
-
-                        <label>Message <span class="color-red">*</span></label>
+                        <label>Correo electrónico <span class="color-red">*</span></label>
+                        <div class="row sky-space-20">
+                            <div class="col-md-7 col-md-offset-0">
+                                <div>
+                                    <input type="email" name="email" id="email" class="form-control">
+                                </div>
+                            </div>
+                        </div>
+                        <label>Teléfono</label>
+                        <div class="row sky-space-20">
+                            <div class="col-md-4 col-md-offset-0">
+                                <div>
+                                    <input type="text" name="telefono" id="telefono" class="form-control">
+                                </div>
+                            </div>
+                        </div>
+                        <label>Mensaje <span class="color-red">*</span></label>
                         <div class="row sky-space-20">
                             <div class="col-md-11 col-md-offset-0">
                                 <div>
-                                    <textarea rows="8" name="message" id="message" class="form-control"></textarea>
+                                    <textarea rows="8" name="message" id="message" class="form-control" placeholder="Escriba aquí su mensaje..."></textarea>
                                 </div>
                             </div>
                         </div>
 
-                        <p><button type="submit" class="btn-u">Send Message</button></p>
+                        <p><button type="submit" class="btn-u"><i class="fa fa-send fa-fw"></i>Enviar</button></p>
                     </fieldset>
 
                     <div class="message">
@@ -65,65 +73,23 @@
 
     		<div class="col-md-3">
             	<!-- Contacts -->
-                <div class="headline"><h2>Contacts</h2></div>
+                <div class="headline"><h2>Datos</h2></div>
                 <ul class="list-unstyled who margin-bottom-30">
-                    <li><a href="#"><i class="fa fa-home"></i>5B Streat, City 50987 New Town US</a></li>
-                    <li><a href="#"><i class="fa fa-envelope"></i>info@example.com</a></li>
-                    <li><a href="#"><i class="fa fa-phone"></i>1(222) 5x86 x97x</a></li>
-                    <li><a href="#"><i class="fa fa-globe"></i>http://www.example.com</a></li>
+                    <li><i class="fa fa-home"></i>Av. Sergio Bernales 524 Int. 1204 Surquillo - Lima</li>
+                    <li><i class="fa fa-envelope"></i>contacto@controlempresarialgroup.com</li>
+                    <li><i class="fa fa-phone"></i>Fijo: 01-6334406</li>
+                    <li><i class="fa fa-mobile fa-lg"></i>Claro (RPC): 980133569 / 956374421</li>
+                    <li><i class="fa fa-mobile fa-lg"></i>Nextel: 51*110*1081 / 41*352*5865</li>
                 </ul>
 
-            	<!-- Business Hours -->
-                <div class="headline"><h2>Business Hours</h2></div>
+                <div class="headline"><h2>Horario</h2></div>
                 <ul class="list-unstyled margin-bottom-30">
-                	<li><strong>Monday-Friday:</strong> 10am to 8pm</li>
-                	<li><strong>Saturday:</strong> 11am to 3pm</li>
-                	<li><strong>Sunday:</strong> Closed</li>
+                	<li><strong>Lunes-Viernes:</strong> 9am to 6pm</li>
+                	<li><strong>Sabados:</strong> 9am to 1pm</li>
+                	<li><strong>Domingos:</strong> No atendemos</li>
                 </ul>
-
-            	<!-- Why we are? -->
-                <div class="headline"><h2>Why we are?</h2></div>
-                <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum.</p>
-                <ul class="list-unstyled">
-                	<li><i class="fa fa-check color-green"></i> Odio dignissimos ducimus</li>
-                	<li><i class="fa fa-check color-green"></i> Blanditiis praesentium volup</li>
-                	<li><i class="fa fa-check color-green"></i> Eos et accusamus</li>
-                </ul>
-            </div><!--/col-md-3-->
-        </div><!--/row-->
-
-        <!-- Owl Clients v1 -->
-        <div class="headline"><h2>Our Clients</h2></div>
-        <div class="owl-clients-v1">
-            <div class="item">
-                <img src="assets/img/clients4/1.png" alt="">
-            </div>
-            <div class="item">
-                <img src="assets/img/clients4/2.png" alt="">
-            </div>
-            <div class="item">
-                <img src="assets/img/clients4/3.png" alt="">
-            </div>
-            <div class="item">
-                <img src="assets/img/clients4/4.png" alt="">
-            </div>
-            <div class="item">
-                <img src="assets/img/clients4/5.png" alt="">
-            </div>
-            <div class="item">
-                <img src="assets/img/clients4/6.png" alt="">
-            </div>
-            <div class="item">
-                <img src="assets/img/clients4/7.png" alt="">
-            </div>
-            <div class="item">
-                <img src="assets/img/clients4/8.png" alt="">
-            </div>
-            <div class="item">
-                <img src="assets/img/clients4/9.png" alt="">
             </div>
         </div>
-        <!-- End Owl Clients v1 -->
     </div>
     <!--=== End Content Part ===-->
 <?php include 'tpl/footer.tpl.php' ?>

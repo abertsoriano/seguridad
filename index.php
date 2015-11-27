@@ -3,21 +3,20 @@
     <div class="slider-inner">
         <div id="da-slider" class="da-slider">
             <div class="da-slide">
-                <h2><i>CLEAN &amp; FRESH</i> <br /> <i>FULLY RESPONSIVE</i> <br /> <i>DESIGN</i></h2>
-                <p><i>Lorem ipsum dolor amet</i> <br /> <i>tempor incididunt ut</i> <br /> <i>veniam omnis </i></p>
-                <div class="da-img"><img class="img-responsive" src="assets/plugins/parallax-slider/img/1.png" alt=""></div>
+                <h2><i>SEGURIDAD</i> <i>E</i><br><i>INTELIGENCIA</i> <i>INTEGRAL</i></h2>
+                <div class="da-img"><img class="img-responsive" src="assets/plugins/parallax-slider/img/1.jpg" alt=""></div>
             </div>
             <div class="da-slide">
-                <h2><i>RESPONSIVE VIDEO</i> <br /> <i>SUPPORT AND</i> <br /> <i>MANY MORE</i></h2>
-                <p><i>Lorem ipsum dolor amet</i> <br /> <i>tempor incididunt ut</i></p>
-                <div class="da-img">
-                    <iframe src="http://player.vimeo.com/video/47911018" width="530" height="300" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-                </div>
+                <h2><i>LOSS CONTROL</i></h2>
+                <div class="da-img"><img class="img-responsive" src="assets/plugins/parallax-slider/img/2.jpg" alt=""></div>
             </div>
             <div class="da-slide">
-                <h2><i>USING BEST WEB</i> <br /> <i>SOLUTIONS WITH</i> <br /> <i>HTML5/CSS3</i></h2>
-                <p><i>Lorem ipsum dolor amet</i> <br /> <i>tempor incididunt ut</i> <br /> <i>veniam omnis </i></p>
-                <div class="da-img"><img src="assets/plugins/parallax-slider/img/html5andcss3.png" alt="image01" /></div>
+                <h2><i>INVESTIGACIONES</i></h2>
+                <div class="da-img"><img class="img-responsive" src="assets/plugins/parallax-slider/img/3.jpg" alt=""></div>
+            </div>
+            <div class="da-slide">
+                <h2><i>INSTALACION DE ALARMAS,</i><br><i>CCTV</i><br><i>SISTEMAS ELECTRONICOS</i></h2>
+                <div class="da-img"><img class="img-responsive" src="assets/plugins/parallax-slider/img/4.jpg" alt=""></div>
             </div>
             <div class="da-arrows">
                 <span class="da-arrows-prev"></span>
@@ -35,42 +34,42 @@
                 <div class="thumbnails thumbnail-style thumbnail-kenburn">
                 	<div class="thumbnail-img">
                         <div class="overflow-hidden">
-                            <img class="img-responsive" src="assets/img/main/img1.jpg" alt="">
+                            <img class="img-responsive" src="assets/img/main/bloque1.jpg" alt="">
                         </div>
-                        <a class="btn-more hover-effect" href="#">read more +</a>
+                        <a class="btn-more hover-effect" href="page_about.php">Leer más +</a>
                     </div>
-                    <div class="caption">
+                    <!-- <div class="caption">
                         <h3><a class="hover-effect" href="#">Project One</a></h3>
                         <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, justo sit amet risus etiam porta sem.</p>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="thumbnails thumbnail-style thumbnail-kenburn">
                     <div class="thumbnail-img">
                         <div class="overflow-hidden">
-                            <img class="img-responsive" src="assets/img/main/img12.jpg" alt="">
+                            <img class="img-responsive" src="assets/img/main/bloque2.jpg" alt="">
                         </div>
-                        <a class="btn-more hover-effect" href="#">read more +</a>
+                        <a class="btn-more hover-effect" href="#">Leer más +</a>
                     </div>
-                    <div class="caption">
+                    <!-- <div class="caption">
                         <h3><a class="hover-effect" href="#">Project Two</a></h3>
                         <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, justo sit amet risus etiam porta sem.</p>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="thumbnails thumbnail-style thumbnail-kenburn">
                     <div class="thumbnail-img">
                         <div class="overflow-hidden">
-                            <img class="img-responsive" src="assets/img/main/img3.jpg" alt="">
+                            <img class="img-responsive" src="assets/img/main/bloque3.jpg" alt="">
                         </div>
-                        <a class="btn-more hover-effect" href="#">read more +</a>
+                        <a class="btn-more hover-effect" href="#">Leer más +</a>
                     </div>
-                    <div class="caption">
+                    <!-- <div class="caption">
                         <h3><a class="hover-effect" href="#">Project Three</a></h3>
                         <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, justo sit amet risus etiam porta sem.</p>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
@@ -142,31 +141,25 @@
         <div class="headline"><h2>Nuestros Clientes</h2></div>
         <div class="owl-clients-v1">
             <div class="item">
-                <img src="assets/img/clients4/1.png" alt="">
+                <img src="assets/img/clients/red_salud.jpg" alt="">
             </div>
             <div class="item">
-                <img src="assets/img/clients4/2.png" alt="">
+                <img src="assets/img/clients/allmark.jpg" alt="">
             </div>
             <div class="item">
-                <img src="assets/img/clients4/3.png" alt="">
+                <img src="assets/img/clients/bt.jpg" alt="">
             </div>
             <div class="item">
-                <img src="assets/img/clients4/4.png" alt="">
+                <img src="assets/img/clients/capon.jpg" alt="">
             </div>
             <div class="item">
-                <img src="assets/img/clients4/5.png" alt="">
+                <img src="assets/img/clients/lima_courier.jpg" alt="">
             </div>
             <div class="item">
-                <img src="assets/img/clients4/6.png" alt="">
+                <img src="assets/img/clients/promusea.jpg" alt="">
             </div>
             <div class="item">
-                <img src="assets/img/clients4/7.png" alt="">
-            </div>
-            <div class="item">
-                <img src="assets/img/clients4/8.png" alt="">
-            </div>
-            <div class="item">
-                <img src="assets/img/clients4/9.png" alt="">
+                <img src="assets/img/clients/qhiswa.jpg" alt="">
             </div>
         </div>
     </div><!--/container-->
