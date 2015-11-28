@@ -85,6 +85,7 @@ a:hover {
 }
 .purchase p {
 	margin-bottom: 0;
+	text-align: justify;
 }
 .purchase span {
 	color: #666;

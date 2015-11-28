@@ -5,7 +5,7 @@
                 <div class="row">
                     <!-- About -->
                     <div class="col-sm-6 col-md-4 md-margin-bottom-40">
-                        <a href="index.php"><img id="logo-footer" class="footer-logo" src="assets/img/logo2-default.png" alt=""></a>
+                        <a href="index.php"><img id="logo-footer" class="footer-logo" src="assets/img/logofooter.jpg" alt=""></a>
                         <p>El principal aporte de nuestra organización es la especialización en el perfecccionamiento del factor humano, donde se involucra la selección, evaluación, entrenamiento, control y supervición del Area de Seguridad.</p>
                         <p>Contamos con personal calificado con una amplia experiencia en los temas de protección y control de pérdidas en las empresas.</p>
                     </div>
@@ -13,7 +13,7 @@
 
                     <!-- Address -->
                     <div class="col-sm-6 col-md-4 col-md-offset-4 map-img md-margin-bottom-40">
-                        <div class="headline"><h2>Contact Us</h2></div>
+                        <div class="headline"><h2>Contáctenos</h2></div>
                         <address class="md-margin-bottom-40">
                             Domicilio Fiscal: Av. Sergio Bernales 524 Int. 1204 - Surquillo - Lima <br />
                             Lima 34 - Perú <br />

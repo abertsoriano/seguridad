@@ -50,7 +50,7 @@ $path = array_pop($url);
 	<div class="wrapper">
 	    <div class="header header-sticky">
 	        <div class="container">
-	            <a class="logo" href="index.php" style="font-size: 2em;margin-top: 26px;float: left;margin-bottom: 16px">CONTROL EMPRESARIAL</a>
+	            <a class="logo" href="index.php" style="font-size: 2em;margin-top: 26px;float: left;margin-bottom: 16px">CONTROL EMPRESARIAL GROUP S.A.C.</a>
 	            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
 	                <span class="sr-only">Toggle navigation</span>
 	                <span class="fa fa-bars"></span>

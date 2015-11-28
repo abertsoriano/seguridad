@@ -75,7 +75,7 @@
                     </div>
                     <div class="col-sm-7">
                         <div class="headline">
-                            <h4>Nuestro enfoque</h4>
+                            <h4>Nuestro Enfoque</h4>
                         </div>
                         <p>Es asegurar proactivamente que los problemas y los peligros potenciales, debilidades y riesgos se identifiquen antes de convertirse en situaciones de gravedad.</p>
                         <p>Nos comunicamos muy de cerca con nuestros clientes para asegurar un entendimiento común de las necesidades de servicios que ofrecemos.</p>
