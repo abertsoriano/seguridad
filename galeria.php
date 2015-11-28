@@ -1,7 +1,7 @@
 <?php include 'tpl/header.tpl.php' ?>
     <div class="breadcrumbs breadcrumbs-dark">
         <div class="container">
-            <h1 class="pull-left">Gallería</h1>
+            <h1 class="pull-left">Galería</h1>
             <ul class="pull-right breadcrumb">
                 <li><a href="index.php">Inicio</a></li>
                 <li class="active">Galería</li>
