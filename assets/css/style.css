@@ -405,9 +405,6 @@ a.thumbnail {
 }
 
 .thumbnail-kenburn img {
-	left: 10px;
-	margin-left: -10px;
-	position: relative;
    -webkit-transition: all 0.8s ease-in-out;
    -moz-transition: all 0.8s ease-in-out;
    -o-transition: all 0.8s ease-in-out;

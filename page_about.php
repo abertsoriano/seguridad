@@ -1,17 +1,14 @@
-<?php include 'tpl/header.tpl.html' ?>
-    <!--=== Breadcrumbs ===-->
+<?php include 'tpl/header.tpl.php' ?>
     <div class="breadcrumbs breadcrumbs-dark">
         <div class="container">
-            <h1 class="pull-left">About Me</h1>
+            <h1 class="pull-left">Acerca de Nosotros</h1>
             <ul class="pull-right breadcrumb">
-                <li><a href="index.php">Home</a></li>
-                <li class="active">About me</li>
+                <li><a href="index.php">Inicio</a></li>
+                <li class="active">Nosotros</li>
             </ul>
         </div>
     </div>
-    <!--=== End Breadcrumbs ===-->
 
-    <!--=== Content Part ===-->
     <div class="container content -sm">
         <div class="row about-me">
             <div class="col-sm-4 shadow-wrapper md-margin-bottom-40">
@@ -46,72 +43,19 @@
                     <small>CEO Jack Bour</small>
                 </blockquote>
             </div>
-        </div><!--/row-->
-
-    	<!-- Meer Our Team -->
-    	<div class="headline"><h2>Meet Our Team</h2></div>
-        <div class="row team">
-            <div class="col-sm-3">
-                <div class="thumbnail-style">
-                    <img class="img-responsive" src="assets/img/team/nosotros1.jpg" alt="" />
-                    <h3><a>Mario Mallca</a> <small>Gerente General</small></h3>
-                    <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, justo sit amet risus etiam porta sem...</p>
-                    <ul class="list-unstyled list-inline team-socail">
-                    	<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                    	<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                    	<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="col-sm-3">
-                <div class="thumbnail-style">
-                    <img class="img-responsive" src="assets/img/team/nosotros1.jpg" alt="" />
-                    <h3><a>Miguel Sanchez</a> <small>Gerente de Operaciones</small></h3>
-                    <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, justo sit amet risus etiam porta sem...</p>
-                    <ul class="list-unstyled list-inline team-socail">
-                    	<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                    	<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                    	<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                    </ul>
-                </div>
-            </div>
-        </div><!--/team-->
-    	<!-- End Meer Our Team -->
-
-        <!-- Owl Clients v1 -->
-        <div class="headline"><h2>Our Clients</h2></div>
-        <div class="owl-clients-v1">
-            <div class="item">
-                <img src="assets/img/clients4/11.jpg" alt="">
-            </div>
-            <div class="item">
-                <img src="assets/img/clients4/12.jpg" alt="">
-            </div>
-            <div class="item">
-                <img src="assets/img/clients4/13.jpg" alt="">
-            </div>
-            <div class="item">
-                <img src="assets/img/clients4/14.jpg" alt="">
-            </div>
-            <div class="item">
-                <img src="assets/img/clients4/15.jpg" alt="">
-            </div>
-            <div class="item">
-                <img src="assets/img/clients4/16.jpg" alt="">
-            </div>
-            <div class="item">
-                <img src="assets/img/clients4/17.jpg" alt="">
-            </div>
         </div>
-        <!-- End Owl Clients v1 -->
-    </div><!--/container-->
+        <?php include 'tpl/clients.tpl.html' ?>
+    </div>
 <?php include 'tpl/footer.tpl.php' ?>
-<!-- JS Implementing Plugins -->
 <script type="text/javascript" src="assets/plugins/owl-carousel/owl-carousel/owl.carousel.js"></script>
-<script type="text/javascript" src="assets/js/plugins/owl-carousel.js"></script>
 <script type="text/javascript">
-    jQuery(document).ready(function() {
-        OwlCarousel.initOwlCarousel();
+    $(".owl-clients-v1").owlCarousel({
+        items : 7,
+        autoPlay : 5000,
+        itemsDesktop : [1000,5],
+        itemsDesktopSmall : [900,4],
+        itemsTablet: [600,3],
+        itemsMobile : [300,2]
     });
 </script>
 <!--[if lt IE 9]>
@@ -119,8 +63,5 @@
     <script src="assets/plugins/html5shiv.js"></script>
     <script src="assets/plugins/placeholder-IE-fixes.js"></script>
 <![endif]-->
-
 </body>
-
-<!-- Mirrored from htmlstream.com/preview/unify-v1.8/page_about.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 19 Nov 2015 07:57:00 GMT -->
 </html>
