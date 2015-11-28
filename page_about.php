@@ -40,7 +40,6 @@
                 <br/>
                 <blockquote class="hero-unify">
                     <p>Nuestro potencial profesional humano se encuentra respaldado por la utilización de los avances tecnológicos más modernos en Control Interno, Auditoria, Selección e Investigación de Personal, Protección Física, Canina, Seguridad Electrónica, Investigaciones y Proyectos.</p>
-                    <small>CEO Jack Bour</small>
                 </blockquote>
             </div>
         </div>

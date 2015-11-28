@@ -70,7 +70,7 @@ $path = array_pop($url);
 	                        <a href="servicios.php">Servicios</a>
 	                    </li>
 	                    <li class="<?php echo $path == 'galeria.php' ? 'active' : '' ?>">
-	                        <a href="galeria.php">Galleria</a>
+	                        <a href="galeria.php">Galería</a>
 	                    </li>
 	                    <li class="<?php echo $path == 'page_contact1.php' ? 'active' : '' ?>">
 	                        <a href="page_contact1.php">Contacto</a>
