@@ -27,7 +27,7 @@
                         <li><a class="rounded-x social_linkedin" data-original-title="Linkedin" href="#"></a></li>
                     </ul>
                 </div>
-                <p>CONTROL EMPRESARIAL GROUP SAC es una organización empresarial enmarcada en lineamientos estratégicos y operativos internacionales, los cuales están siendo aplicados en nuestro medio por nuestros Directores Mario Mallca y Miguel Sánchez, amplios conocedores en materias de seguridad, controles para empresas, medidas de protección para ejecutivos, prevención y control de pérdidas.</p>
+                <p>CONTROL EMPRESARIAL GROUP SAC es una organización empresarial enmarcada en lineamientos estratégicos y operativos internacionales, los cuales están siendo aplicados en nuestro medio por nuestros Directores, amplios conocedores en materias de seguridad, controles para empresas, medidas de protección para ejecutivos, prevención y control de pérdidas.</p>
                 <p>Nuestra empresa está conformada por personal calificado con una amplia experiencia en los temas de protección y control de pérdidas en las empresas. Contamos con las mejores alternativas para su empresa en el tema de protección y prevención; básicamente, por un conjunto de medidas analizadas y puestas en práctica en instituciones que ya cuentan con estos servicios con resultados positivos.</p>
                 <p>Contamos con nuestra Area de Capacitación e implementamos equipos especiales de protección de ejecutivos y alta gerencia, los cuales son adiestrados en las tareas de:</p>
                 <ul class="list-unstyled">
