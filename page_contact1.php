@@ -83,9 +83,8 @@
 
                     <div class="headline"><h2>Horario</h2></div>
                     <ul class="list-unstyled margin-bottom-30">
-                    	<li><strong>Lunes-Viernes:</strong> 9am to 6pm</li>
-                    	<li><strong>Sabados:</strong> 9am to 1pm</li>
-                    	<li><strong>Domingos:</strong> No atendemos</li>
+                    	<li><strong>Lunes - Sábados:</strong> 9am a 6pm</li>
+                    	<li><strong>Domingos:</strong> 10am a 3pm</li>
                     </ul>
                 </div>
             </div>

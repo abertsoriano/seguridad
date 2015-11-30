@@ -13,17 +13,17 @@
 		<div class="row tab-v3">
 			<div class="col-sm-3">
 			    <ul class="nav nav-pills nav-stacked">
-			        <li class="active"><a href="#seguridad-integral" data-toggle="tab" aria-expanded="false"><i class="fa fa-home"></i> Seguridad Integral</a></li>
-			        <li><a href="#loss-control" data-toggle="tab" aria-expanded="false"><i class="fa fa-cloud"></i> Loss Control</a></li>
-			        <li><a href="#investigaciones" data-toggle="tab" aria-expanded="false"><i class="fa fa-comments"></i> Investigaciones</a></li>
-			        <li><a href="#control-eventos-vip" data-toggle="tab" aria-expanded="true"><i class="fa fa-gear"></i> Control de eventos VIP</a></li>
-			        <li><a href="#proteccion-vip" data-toggle="tab" aria-expanded="true"><i class="fa fa-gear"></i> Protección Prominentes VIP</a></li>
-			        <li><a href="#consultoria-seguridad" data-toggle="tab" aria-expanded="true"><i class="fa fa-gear"></i> Consultoría en Seguridad</a></li>
-			        <li><a href="#seguridad-cuidadana" data-toggle="tab" aria-expanded="true"><i class="fa fa-gear"></i> Seguridad Ciudadana</a></li>
-			        <li><a href="#evaluacion-seleccion" data-toggle="tab" aria-expanded="true"><i class="fa fa-gear"></i> Evaluación y Selección de Personal</a></li>
-			        <li><a href="#capacitacion-instruccion" data-toggle="tab" aria-expanded="true"><i class="fa fa-gear"></i> Capacitación e Instrucción</a></li>
-			        <li><a href="#alarmas-cctv" data-toggle="tab" aria-expanded="true"><i class="fa fa-gear"></i> Alarmas, CCTV y Sistemas Electrónicos</a></li>
-			        <li><a href="#lucha-incendios" data-toggle="tab" aria-expanded="true"><i class="fa fa-gear"></i> Lucha contra Incendios</a></li>
+			        <li class="active"><a href="#seguridad-integral" data-toggle="tab" aria-expanded="false"><i class="fa fa-arrow-circle-right "></i> Seguridad Integral</a></li>
+			        <li><a href="#loss-control" data-toggle="tab" aria-expanded="false"><i class="fa fa-arrow-circle-right "></i> Loss Control</a></li>
+			        <li><a href="#investigaciones" data-toggle="tab" aria-expanded="false"><i class="fa fa-arrow-circle-right "></i> Investigaciones</a></li>
+			        <li><a href="#control-eventos-vip" data-toggle="tab" aria-expanded="true"><i class="fa fa-arrow-circle-right "></i> Control de eventos VIP</a></li>
+			        <li><a href="#proteccion-vip" data-toggle="tab" aria-expanded="true"><i class="fa fa-arrow-circle-right "></i> Protección Prominentes VIP</a></li>
+			        <li><a href="#consultoria-seguridad" data-toggle="tab" aria-expanded="true"><i class="fa fa-arrow-circle-right "></i> Consultoría en Seguridad</a></li>
+			        <li><a href="#seguridad-cuidadana" data-toggle="tab" aria-expanded="true"><i class="fa fa-arrow-circle-right "></i> Seguridad Ciudadana</a></li>
+			        <li><a href="#evaluacion-seleccion" data-toggle="tab" aria-expanded="true"><i class="fa fa-arrow-circle-right "></i> Evaluación y Selección de Personal</a></li>
+			        <li><a href="#capacitacion-instruccion" data-toggle="tab" aria-expanded="true"><i class="fa fa-arrow-circle-right "></i> Capacitación e Instrucción</a></li>
+			        <li><a href="#alarmas-cctv" data-toggle="tab" aria-expanded="true"><i class="fa fa-arrow-circle-right "></i> Alarmas, CCTV y Sistemas Electrónicos</a></li>
+			        <li><a href="#lucha-incendios" data-toggle="tab" aria-expanded="true"><i class="fa fa-arrow-circle-right "></i> Lucha contra Incendios</a></li>
 			    </ul>
 			</div>
 			<div class="col-sm-9">
@@ -249,7 +249,11 @@ La optimización de recursos de servicios de seguridad ciudadana y una adecuada 
 			        	<p>Nuestra Area de Evaluación Psicológica está a cargo de los prestigiosos Psicólogos: Ana María Salazar Culantres - Galindo Solis - Jorge Cerdán.</p>
 			        </div>
 			        <div class="tab-pane fade" id="capacitacion-instruccion">
-
+			        	<img src="assets/img/gallery/05.jpg" class="img-responsive">
+			        	<br>
+			        	<hr>
+			        	<br>
+			        	<img src="assets/img/gallery/09.jpg" class="img-responsive center-block">
 			        </div>
 			        <div class="tab-pane fade" id="alarmas-cctv">
    						<img src="assets/img/servicios/servicios10.jpg" class="img-responsive" />

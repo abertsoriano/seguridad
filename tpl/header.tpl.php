@@ -52,9 +52,9 @@ $path = array_pop($url);
 	        <div class="container">
 	            <a class="logo" href="index.php">
 	            	<img src="assets/img/logo.jpg" alt="Logo">
-	            	<span>CONTROL EMPRESARIAL GROUP S.A.C.</span>
+	            	<span class="hidden-xs">CONTROL EMPRESARIAL GROUP S.A.C.</span>
 	            </a>
-	            <div class="topbar">
+	            <div class="topbar hidden-xs hidden-sm">
 	                <img src="assets/img/bandera_peru.png" alt="Bandera perú" id="bandera_peru">
 	            </div>
 	            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
