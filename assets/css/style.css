@@ -1,12 +1,10 @@
-/*
- * Template Name: Unify - Responsive Bootstrap Template
- * Description: Business, Corporate, Portfolio, E-commerce, Blog and One Page Template.
- * Version: 1.8
- * Author: @htmlstream
- * Website: http://htmlstream.com
-*/
+@font-face {
+  font-family: 'ColonnaMT';
+  src: url('../../font/ColonnaMT.eot?#iefix') format('embedded-opentype'),  url('../../font/ColonnaMT.woff') format('woff'), url('../../font/ColonnaMT.ttf')  format('truetype'), url('../../font/ColonnaMT.svg#ColonnaMT') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
 
-/*Import Global Compulsory CSS Files*/
 @import url(ie8.css);
 @import url(blocks.css);
 @import url(plugins.css);
@@ -57,8 +55,8 @@ a:focus {
   text-decoration: none;
 }
 a.logo span {
-	font-weight: bold;
-	font-size: 1.4em;
+	font-family: ColonnaMT;
+	font-size: 1.8em;
 }
 #bandera_peru {
 	float: right;
