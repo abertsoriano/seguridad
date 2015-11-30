@@ -17,7 +17,7 @@ $path = array_pop($url);
     <!-- Favicon -->
     <link rel="shortcut icon" href="favicon.ico">
     <!-- Web Fonts -->
-    <link rel='stylesheet' type='text/css' href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600&amp;subset=cyrillic,latin'>
+    <link href='http://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet' type='text/css'>
     <!-- CSS Global Compulsory -->
     <link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
@@ -50,7 +50,13 @@ $path = array_pop($url);
 	<div class="wrapper">
 	    <div class="header header-sticky">
 	        <div class="container">
-	            <a class="logo" href="index.php" style="font-size: 2em;margin-top: 26px;float: left;margin-bottom: 16px">CONTROL EMPRESARIAL GROUP S.A.C.</a>
+	            <a class="logo" href="index.php">
+	            	<img src="assets/img/logo.jpg" alt="Logo">
+	            	<span>CONTROL EMPRESARIAL GROUP S.A.C.</span>
+	            </a>
+	            <div class="topbar">
+	                <img src="assets/img/bandera_peru.png" alt="Bandera perú" id="bandera_peru">
+	            </div>
 	            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
 	                <span class="sr-only">Toggle navigation</span>
 	                <span class="fa fa-bars"></span>

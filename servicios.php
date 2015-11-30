@@ -27,7 +27,7 @@
 			    </ul>
 			</div>
 			<div class="col-sm-9">
-			    <div class="tab-content">
+			    <div class="tab-content text-justify">
 			        <div class="tab-pane fade in active" id="seguridad-integral">
 			        	<img src="assets/img/servicios/servicios01.jpg" class="img-responsive" />
 			        	<div class="headline">
@@ -83,7 +83,7 @@
 		                    <li><i class="fa fa-check color-green"></i> Controladores de mercaderías</li>
 		                </ul>
 		                <h4>SEGUIMIENTO Y SUPERVISION</h4>
-		                <p>La labor de seguimiento y control realizada por la Supervisión de CONTROL EMPRESARIAL GROUP, garantiza el alto nivel de calidad de los servicios prestados.</p>	
+		                <p>La labor de seguimiento y control realizada por la Supervisión de CONTROL EMPRESARIAL GROUP, garantiza el alto nivel de calidad de los servicios prestados.</p>
 			        </div>
 			        <div class="tab-pane fade" id="investigaciones">
 			            <img src="assets/img/servicios/servicios03.jpg" class="img-responsive" />
@@ -129,7 +129,7 @@ Nuestra filosofía es la prevención y disolución de las distintas situaciones 
 			            <h4>ORGANIZACIÓN Y CONTROL VEHICULAR</h4>
 			            <p>Este es un punto muy importante para evitar el congestionamiento de vehículos es las vías de acceso adyacentes al evento, nuestro personal se encargará de orientar a los invitados y ubicarles un lugar seguro para estacionar, el cual estará vigilado constantemente.</p>
 			            <h4>SERVICIO DE VALET PARKING</h4>
-			            <p>El servicio de Valet Parking (parqueo de vehículos), será cubierto por personal calificado en las tareas de conducción profesional de vehículos, los mismos que serán los responsables del cuidado en paralelo con el servicio de organización y resguardo de vehículos en el área designada por los organizadores del evento.</p>	
+			            <p>El servicio de Valet Parking (parqueo de vehículos), será cubierto por personal calificado en las tareas de conducción profesional de vehículos, los mismos que serán los responsables del cuidado en paralelo con el servicio de organización y resguardo de vehículos en el área designada por los organizadores del evento.</p>
 			        </div>
 			        <div class="tab-pane fade" id="proteccion-vip">
 			            <img src="assets/img/servicios/servicios05.jpg" class="img-responsive" />
@@ -173,7 +173,7 @@ Contratación de personal a través de CONTROL EMPRESARIAL GROUP, que se especia
 		                    <li><i class="fa fa-check color-green"></i>Defensa personal.</li>
 		                    <li><i class="fa fa-check color-green"></i>Técnicas de protección y evacuación.</li>
 		                    <li><i class="fa fa-check color-green"></i>Entrenamiento físico permanente</li>
-		                </ul>			            
+		                </ul>
 			            <h4>PLANIFICACION Y DISEÑO DE LA SEGURIDAD ELECTRONICA Y FISICA</h4>
 		                <ul class="list-unstyled">
 		                    <li><i class="fa fa-check color-green"></i>Asesoramiento en la instalación de circuitos cerrados de televisión controlados a distancia con grabación digital.</li>
@@ -224,9 +224,9 @@ La optimización de recursos de servicios de seguridad ciudadana y una adecuada 
 			        	<div class="headline">
 			            	<h3>Evaluación y Selección de Personal</h3>
 			        	</div>
-			            <p>El proceso de "Selección e Investigación de Personal” consiste en llevar a cabo una serie de procedimientos orientados a determinar el grado de confiabilidad que se puede tener en una persona.<BR>
-Nuestra labor trata principalmente de satisfacer las necesidades de nuestros clientes de contar con personal idóneo y capaz, para garantizar la honestidad y lealtad.<BR>
-Nuestra filosofía de trabajo gira en torno al concepto de buscar el perfeccionamiento del factor humano.</p>
+			            <p>El proceso de "Selección e Investigación de Personal” consiste en llevar a cabo una serie de procedimientos orientados a determinar el grado de confiabilidad que se puede tener en una persona.</p>
+						<p>Nuestra labor trata principalmente de satisfacer las necesidades de nuestros clientes de contar con personal idóneo y capaz, para garantizar la honestidad y lealtad.</p>
+						<p>Nuestra filosofía de trabajo gira en torno al concepto de buscar el perfeccionamiento del factor humano.</p>
 			        	<p>El producto de Selección e Investigación de Personal consta de tres fases las cuales son:</p>
 			        	<h4>FASE: CAPTACION DEL FACTOR HUMANO</h4>
 			        	<p>El proceso se inicia con la imagen que se debe de presentar, porque el factor humano que va a responder estará en función a esa imagen, es por ello que las publicaciones y la forma en que se desea que se responda al requerimiento deben estar bien planificadas. A continuación algunos criterios a tomar en cuenta:</p>
@@ -246,10 +246,10 @@ Nuestra filosofía de trabajo gira en torno al concepto de buscar el perfecciona
 		               	</ul>
 			        	<h4>FASE: PRUEBA PSICOLOGICA</h4>
 			        	<p>Somos especialistas en el lenguaje del cuerpo y conductas sospechosas.</p>
-			        	<p>Nuestra Area de Evaluación Psicológica está a cargo de los prestigiosos Psicólogos: Ana María Salazar Culantres - Galindo Solis - Jorge Cerdán.</p>	
+			        	<p>Nuestra Area de Evaluación Psicológica está a cargo de los prestigiosos Psicólogos: Ana María Salazar Culantres - Galindo Solis - Jorge Cerdán.</p>
 			        </div>
 			        <div class="tab-pane fade" id="capacitacion-instruccion">
-			     
+
 			        </div>
 			        <div class="tab-pane fade" id="alarmas-cctv">
    						<img src="assets/img/servicios/servicios10.jpg" class="img-responsive" />
@@ -259,19 +259,19 @@ Nuestra filosofía de trabajo gira en torno al concepto de buscar el perfecciona
 			            <p>Ante el vertiginoso desarrollo de la tecnología la seguridad ha evolucionado en sus concepción, permitiendo que las empresas con la finalidad de disuadir, detectar y proteger personas y bienes puedan emplear la tecnología disponible en medios electrónicos.</p>
 			        	<p>CONTROL EMPRESARIAL GROUP ofrece los servicios de instalación, configuración y mantenimiento de los siguientes dispositivos:</p>
 		                <ul class="list-unstyled">
-		                    <li><i class="fa fa-check color-green"></i>Alarmas contra robos</li>		
-		                    <li><i class="fa fa-check color-green"></i>Circuitos cerrados de televisión (CCTV)</li>	
-		                    <li><i class="fa fa-check color-green"></i>Cercos eléctricos</li>	
-		                    <li><i class="fa fa-check color-green"></i>Equipos de seguridad complementaria.</li>	               	
+		                    <li><i class="fa fa-check color-green"></i>Alarmas contra robos</li>
+		                    <li><i class="fa fa-check color-green"></i>Circuitos cerrados de televisión (CCTV)</li>
+		                    <li><i class="fa fa-check color-green"></i>Cercos eléctricos</li>
+		                    <li><i class="fa fa-check color-green"></i>Equipos de seguridad complementaria.</li>
 		                </ul>
 			        	<h4>PLANIFICACION Y DISEÑO DE LA SEGURIDAD ELECTRONICA Y FISICA</h4>
-		                <ul class="list-unstyled">	
-		                    <li><i class="fa fa-check color-green"></i>Asesoramiento en la instalación de circuitos cerrados de televisión controlados a distancia con grabación digital.</li>	
-		                    <li><i class="fa fa-check color-green"></i>Sistemas de defensa y detección de perímetros.</li>	
+		                <ul class="list-unstyled">
+		                    <li><i class="fa fa-check color-green"></i>Asesoramiento en la instalación de circuitos cerrados de televisión controlados a distancia con grabación digital.</li>
+		                    <li><i class="fa fa-check color-green"></i>Sistemas de defensa y detección de perímetros.</li>
 		                    <li><i class="fa fa-check color-green"></i>Sistemas de comunicaciones.</li>
-			        		<li><i class="fa fa-check color-green"></i>Sistemas de control de accesos.</li>		
-		                    <li><i class="fa fa-check color-green"></i>Sistemas de identificación (tarjetas lectoras, sensores magnéticos, etc.).</li>	
-		                    <li><i class="fa fa-check color-green"></i>Monitoreo y supervisión de centros de control</li>	
+			        		<li><i class="fa fa-check color-green"></i>Sistemas de control de accesos.</li>
+		                    <li><i class="fa fa-check color-green"></i>Sistemas de identificación (tarjetas lectoras, sensores magnéticos, etc.).</li>
+		                    <li><i class="fa fa-check color-green"></i>Monitoreo y supervisión de centros de control</li>
 		                    <li><i class="fa fa-check color-green"></i>Administración de bases de datos.</li>
 		                </ul>
 			        </div>
@@ -284,7 +284,7 @@ Nuestra filosofía de trabajo gira en torno al concepto de buscar el perfecciona
 			        	<p>El Área de Formación de CONTROL EMPRESARIAL GROUP, responde a la inquietud de sus profesionales por poner constantemente al día sus conocimientos y mejorar su preparación práctica en lucha contra incendios, para así desempeñar lo mejor posible su misión de servicio a las empresas clientes. El presente proyecto de Lucha Contra Incendios, se orienta a preservar en orden las prioridades, su vida e integridad física, la defensa y protección de su centro laboral y/o equipos y accesorios anexos, dentro del límite de sus posibilidades y organización y esto solo se logra con un buen entrenamiento y la dedicación y seriedad que otorguen los interesados en el desarrollo del proyecto.</p>
 			        	<p>El Área de Formación de CONTROL EMPRESARIAL GROUP cubre dos importantes objetivos:<BR>
 <strong>La Formación Interna</strong>, dedicada al adiestramiento del personal de CONTROL EMPRESARIAL GROUP, tanto en la fase de incorporación a sus empresas como dentro de los programas de reciclaje permanente de sus empleados.<BR>
-<strong>La Formación Externa</strong>, dirigida a satisfacer las necesidades de adiestramiento y preparación del personal de empresas e instituciones en materias básicas o específicas de Seguridad y Lucha Contra Incendios.</p>		
+<strong>La Formación Externa</strong>, dirigida a satisfacer las necesidades de adiestramiento y preparación del personal de empresas e instituciones en materias básicas o específicas de Seguridad y Lucha Contra Incendios.</p>
 			        </div>
 			    </div>
 			</div>

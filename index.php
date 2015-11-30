@@ -73,7 +73,7 @@
                     <div class="col-sm-5">
                         <img class="img-responsive margin-bottom-20 img-bordered" src="assets/img/inicio.jpg" alt="">
                     </div>
-                    <div class="col-sm-7">
+                    <div class="col-sm-7 text-justify">
                         <div class="headline">
                             <h4>Nuestro Enfoque</h4>
                         </div>

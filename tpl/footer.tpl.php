@@ -4,7 +4,7 @@
             <div class="container">
                 <div class="row">
                     <!-- About -->
-                    <div class="col-sm-6 col-md-4 md-margin-bottom-40">
+                    <div class="col-sm-6 col-md-4 md-margin-bottom-40 text-justify">
                         <a href="index.php"><img id="logo-footer" class="footer-logo" src="assets/img/logofooter.jpg" alt=""></a>
                         <p>El principal aporte de nuestra organización es la especialización en el perfecccionamiento del factor humano, donde se involucra la selección, evaluación, entrenamiento, control y supervición del Area de Seguridad.</p>
                         <p>Contamos con personal calificado con una amplia experiencia en los temas de protección y control de pérdidas en las empresas.</p>
@@ -42,38 +42,14 @@
                     <div class="col-md-6">
                         <ul class="footer-socials list-inline">
                             <li>
-                                <a href="#" class="tooltips" data-toggle="tooltip" data-placement="top" title="" data-original-title="Facebook">
+                                <a href="http://www.facebook.com/ControlEmpresarialGroupSAC" class="tooltips" data-toggle="tooltip" data-placement="top" title="Facebook" data-original-title="Facebook" target="_blank">
                                     <i class="fa fa-facebook"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="#" class="tooltips" data-toggle="tooltip" data-placement="top" title="" data-original-title="Skype">
-                                    <i class="fa fa-skype"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" class="tooltips" data-toggle="tooltip" data-placement="top" title="" data-original-title="Google Plus">
-                                    <i class="fa fa-google-plus"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" class="tooltips" data-toggle="tooltip" data-placement="top" title="" data-original-title="Linkedin">
-                                    <i class="fa fa-linkedin"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" class="tooltips" data-toggle="tooltip" data-placement="top" title="" data-original-title="Pinterest">
-                                    <i class="fa fa-pinterest"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" class="tooltips" data-toggle="tooltip" data-placement="top" title="" data-original-title="Twitter">
-                                    <i class="fa fa-twitter"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" class="tooltips" data-toggle="tooltip" data-placement="top" title="" data-original-title="Dribbble">
-                                    <i class="fa fa-dribbble"></i>
+                                <a href="
+https://pe.linkedin.com/in/control-empresarial-group-s-a-c-0b4ba99b" class="tooltips" data-toggle="tooltip" data-placement="top" title="Linked in" data-original-title="Dribbble" target="_blank">
+                                    <i class="fa fa-linkedin-square"></i>
                                 </a>
                             </li>
                         </ul>

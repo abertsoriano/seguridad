@@ -17,14 +17,12 @@
                 </div>
             </div>
 
-            <div class="col-sm-8">
+            <div class="col-sm-8 text-justify">
                 <div class="overflow-h">
-
                     <ul class="social-icons pull-right">
-                        <li><a class="rounded-x social_facebook" data-original-title="Facebook" href="#"></a></li>
-                        <li><a class="rounded-x social_twitter" data-original-title="Twitter" href="#"></a></li>
-                        <li><a class="rounded-x social_googleplus" data-original-title="Google Plus" href="#"></a></li>
-                        <li><a class="rounded-x social_linkedin" data-original-title="Linkedin" href="#"></a></li>
+                        <li><a class="rounded-x social_facebook" data-original-title="Facebook" href="http://www.facebook.com/ControlEmpresarialGroupSAC"></a></li>
+                        <li><a class="rounded-x social_linkedin" data-original-title="Linkedin" href="
+https://pe.linkedin.com/in/control-empresarial-group-s-a-c-0b4ba99b"></a></li>
                     </ul>
                 </div>
                 <p>CONTROL EMPRESARIAL GROUP SAC es una organización empresarial enmarcada en lineamientos estratégicos y operativos internacionales, los cuales están siendo aplicados en nuestro medio por nuestros Directores, amplios conocedores en materias de seguridad, controles para empresas, medidas de protección para ejecutivos, prevención y control de pérdidas.</p>
@@ -39,7 +37,7 @@
                 </ul>
                 <br/>
                 <blockquote class="hero-unify">
-                    <p>Nuestro potencial profesional humano se encuentra respaldado por la utilización de los avances tecnológicos más modernos en Control Interno, Auditoria, Selección e Investigación de Personal, Protección Física, Canina, Seguridad Electrónica, Investigaciones y Proyectos.</p>
+                    <p class="text-justify">Nuestro potencial profesional humano se encuentra respaldado por la utilización de los avances tecnológicos más modernos en Control Interno, Auditoria, Selección e Investigación de Personal, Protección Física, Canina, Seguridad Electrónica, Investigaciones y Proyectos.</p>
                 </blockquote>
             </div>
         </div>
