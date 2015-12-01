@@ -18,8 +18,6 @@ $path = array_pop($url);
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="favicon.ico">
-    <!-- Web Fonts -->
-    <link href='http://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet' type='text/css'>
     <!-- CSS Global Compulsory -->
     <link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
@@ -54,9 +52,9 @@ $path = array_pop($url);
 	        <div class="container">
 	            <a class="logo" href="index.php">
 	            	<img src="assets/img/logo.jpg" alt="Logo">
-	            	<span class="hidden-xs">CONTROL EMPRESARIAL GROUP S.A.C.</span>
+	            	<span>CONTROL EMPRESARIAL GROUP S.A.C.</span>
 	            </a>
-	            <div class="topbar hidden-xs hidden-sm">
+	            <div class="topbar hidden-xs">
 	                <img src="assets/img/bandera_peru.png" alt="Bandera perú" id="bandera_peru">
 	            </div>
 	            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">

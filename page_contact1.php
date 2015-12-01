@@ -78,7 +78,7 @@
                         <li><i class="fa fa-envelope"></i>contacto@controlempresarialgroup.com</li>
                         <li><i class="fa fa-phone"></i>Fijo: 01-6334406</li>
                         <li><i class="fa fa-mobile fa-lg"></i>Claro (RPC): 980133569 / 956374421</li>
-                        <li><i class="fa fa-mobile fa-lg"></i>Nextel: 51*110*1081 / 41*352*5865</li>
+                        <li><i class="fa fa-mobile fa-lg"></i>Nextel: 51*110*1081 / 983525865</li>
                     </ul>
 
                     <div class="headline"><h2>Horario</h2></div>

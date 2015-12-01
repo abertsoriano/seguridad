@@ -30,6 +30,10 @@
 	.header .topbar {
 		margin-bottom: 20px;
 	}
+	#bandera_peru {
+		width: 70px;
+		margin-right: 0px;
+	}
 }
 
 .header .topbar ul.loginbar {
@@ -147,6 +151,15 @@
 	.header > .container {
 		width: 100%;
 	}
+	.logo img {
+		float: left;
+	}
+	.logo span {
+		float: left;
+		font-size: 1.5em !important;
+	    width: 60%;
+	    margin-top: 10px;
+	}
 }
 
 @media (max-width: 991px) {
@@ -222,7 +235,7 @@
 /*Navbar Menu*/
 .header .navbar-nav > li > a {
 	color: #687074;
-	font-size: 13px;
+	font-size: 14px;
 	font-weight:bold;
 	text-transform: uppercase;
 }
@@ -1050,7 +1063,8 @@
 	}
 	.header-fixed .header.header-fixed-shrink .logo span {
 		display: inline-block;
-		padding-top: 56px;
+		padding-top: 42px;
+		margin-bottom: 25px;
 	}
 	.header-fixed .header.header-fixed-shrink #bandera_peru {
 		display: none;
@@ -1059,7 +1073,7 @@
 	/*Navbar Nav*/
 	.header-fixed .header.header-fixed-shrink .navbar-nav > li > a {
 		padding-top: 19px;
-		padding-bottom: 19px;
+		padding-bottom: 10px;
 	}
 
 	.header-fixed .header.header-fixed-shrink .navbar-nav > li > a:hover,

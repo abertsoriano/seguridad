@@ -17,7 +17,7 @@ body {
    color: #333;
    font-size: 13px;
    line-height: 1.6;
-   font-family: 'Quicksand'
+   font-family: Arial, Helvetica
 }
 
 body.header-fixed-space {
@@ -56,7 +56,7 @@ a:focus {
 }
 a.logo span {
 	font-family: ColonnaMT;
-	font-size: 1.8em;
+	font-size: 2.5em;
 }
 #bandera_peru {
 	float: right;
