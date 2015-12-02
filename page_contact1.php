@@ -17,7 +17,7 @@
                     <div class="headline"><h2>Formulario de contacto</h2></div>
                     <p>Su opinión es muy importante para nosotros.<br>Envíenos sus consultas, sugerencias y/o reclamos que los atenderemos a la brevedad posible.</p><br />
 
-        			<form action="http://htmlstream.com/preview/unify-v1.8/assets/php/sky-forms-pro/demo-contacts-process.php" method="post" id="sky-form3" class="sky-form contact-style">
+        			<form action="send.php" method="post" id="sky-form3" class="sky-form contact-style">
                         <fieldset class="no-padding">
                             <label>Nombre <span class="color-red">*</span></label>
                             <div class="row sky-space-20">
@@ -59,19 +59,22 @@
                                     </div>
                                 </div>
                             </div>
-
-                            <p><button type="submit" class="btn-u"><i class="fa fa-send fa-fw"></i>Enviar</button></p>
+                            <p><button type="submit" class="btn-u"><i class="fa fa-send fa-fw"></i><span>Enviar</span></button></p>
+                            <div id="errors-msg" class="hidden">
+                                <div class="alert alert-danger alert-dismissible fade in" role="alert">
+                                    <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">×</span></button>
+                                    <ul></ul>
+                                </div>
+                            </div>
                         </fieldset>
-
                         <div class="message">
                             <i class="rounded-x fa fa-check"></i>
-                            <p>Your message was successfully sent!</p>
+                            <p>Tu mensaje ha sido enviado!</p>
                         </div>
                     </form>
-                </div><!--/col-md-9-->
+                </div>
 
         		<div class="col-md-3">
-                	<!-- Contacts -->
                     <div class="headline"><h2>Datos</h2></div>
                     <ul class="list-unstyled who margin-bottom-30">
                         <li><i class="fa fa-home"></i>Av. Sergio Bernales 524 Int. 1204 Surquillo - Lima</li>
@@ -80,7 +83,6 @@
                         <li><i class="fa fa-mobile fa-lg"></i>Claro (RPC): 980133569 / 956374421</li>
                         <li><i class="fa fa-mobile fa-lg"></i>Nextel: 51*110*1081 / 983525865</li>
                     </ul>
-
                     <div class="headline"><h2>Horario</h2></div>
                     <ul class="list-unstyled margin-bottom-30">
                     	<li><strong>Lunes - Sábados:</strong> 9am a 6pm</li>
@@ -95,6 +97,7 @@
 <script type="text/javascript" src="assets/plugins/sky-forms-pro/skyforms/js/jquery.validate.min.js"></script>
 <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=true"></script>
 <script type="text/javascript" src="assets/plugins/gmap/gmap.js"></script>
+<script type="text/javascript" src="assets/plugins/sky-forms-pro/skyforms/js/jquery.form.min.js"></script>
 <script type="text/javascript" src="assets/plugins/owl-carousel/owl-carousel/owl.carousel.js"></script>
 <script type="text/javascript">
     var map = new GMaps({
@@ -119,10 +122,10 @@
             {
                 required: true
             },
-            empresa:
-            {
-                required: true
-            },
+            // empresa:
+            // {
+            //     required: true
+            // },
             email:
             {
                 required: true,
@@ -164,11 +167,22 @@
             {
                 beforeSend: function()
                 {
-                    $('#sky-form3 button[type="submit"]').prop('disabled', true);
+                    $(form).find('button[type="submit"]').prop('disabled', true).children('span').text('Enviando...');
+                    $('#errors-msg').empty();
                 },
-                success: function()
+                success: function(rec)
                 {
-                    $("#sky-form3").addClass('submited');
+                    var resp = $.parseJSON(rec);
+                    if (resp.is_errors) {
+                        var html = '', i = 0;
+                        for (i; i < resp.info.length; i++) {
+                            html += resp.info[i]
+                        }
+                        $('#errors-msg').removeClass('hidden').html('<div class="alert alert-danger alert-dismissible fade in" role="alert"><button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">×</span></button><ul>' + html + '</ul></div>');
+                        $(form).find('button[type="submit"]').prop('disabled', false).children('span').text('Enviar');
+                    } else {
+                        $("#sky-form3").addClass('submited');
+                    }
                 }
             });
         },
