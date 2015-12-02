@@ -19,7 +19,7 @@ if ( $params['empresa'] == '' ) {
 	$json['info'][] = '<li>Debe escribir el nombre de su empresa</li>';
 }
 if ( $params['telefono'] == '' ) {
-	$json['info'][] = '<li>Debe escribir el telefono lokita</li>';
+	$json['info'][] = '<li>Debe escribir su telefono o celular</li>';
 }
 if ( ! $params['email'] ) {
 	$json['info'][] = '<li>Escriba un correo electrónico válido</li>';

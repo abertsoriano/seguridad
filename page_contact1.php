@@ -122,14 +122,18 @@
             {
                 required: true
             },
-            // empresa:
-            // {
-            //     required: true
-            // },
+            empresa:
+            {
+                required: true
+            },
             email:
             {
                 required: true,
                 email: true
+            },
+            telefono:
+            {
+                required: true
             },
             message:
             {
@@ -153,6 +157,10 @@
             {
                 required: 'Brindenos su correo electrónico',
                 email: 'Por favor, escriba un correo electrónico VÁLIDO'
+            },
+            telefono:
+            {
+                required: 'Favor de escribir su teléfono o celular'
             },
             message:
             {
