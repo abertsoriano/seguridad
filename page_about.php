@@ -25,19 +25,19 @@
 https://pe.linkedin.com/in/control-empresarial-group-s-a-c-0b4ba99b"></a></li>
                     </ul>
                 </div>
-                <p>CONTROL EMPRESARIAL GROUP SAC es una organización empresarial enmarcada en lineamientos estratégicos y operativos internacionales, los cuales están siendo aplicados en nuestro medio por nuestros Directores, amplios conocedores en materias de seguridad, controles para empresas, medidas de protección para ejecutivos, prevención y control de pérdidas.</p>
-                <p>Nuestra empresa está conformada por personal calificado con una amplia experiencia en los temas de protección y control de pérdidas en las empresas. Contamos con las mejores alternativas para su empresa en el tema de protección y prevención; básicamente, por un conjunto de medidas analizadas y puestas en práctica en instituciones que ya cuentan con estos servicios con resultados positivos.</p>
-                <p>Contamos con nuestra Area de Capacitación e implementamos equipos especiales de protección de ejecutivos y alta gerencia, los cuales son adiestrados en las tareas de:</p>
+                <p><strong>CONTROL EMPRESARIAL GROUP SAC</strong> es una organización enmarcada en lineamientos estratégicos y operativos internacionales de seguridad, los cuales están siendo aplicados en nuestro medio por nuestros directores y colaboradores, amplios conocedores en materias de seguridad, controles para empresas, medidas de protección para ejecutivos, prevención y control de pérdidas.</p>
+                <p>Nuestra empresa está conformada por personal calificado con una amplia experiencia en los temas de protección y control de pérdidas en las empresas. contamos con las mejores alternativas para su empresa en el tema de protección y prevención; básicamente, por un conjunto de medidas analizadas y puestas en práctica en instituciones que ya cuentan con estos servicios con resultados positivos.</p>
+                <p>Contamos con nuestra área de capacitación e implementamos equipos especiales de protección de ejecutivos y alta gerencia, los cuales son adiestrados en las tareas de:</p>
                 <ul class="list-unstyled">
                     <li><i class="fa fa-check color-green"></i> Inteligencia</li>
                     <li><i class="fa fa-check color-green"></i> Planificación operativa</li>
-                    <li><i class="fa fa-check color-green"></i> Contra espionaje industrial (fuga de información</li>
+                    <li><i class="fa fa-check color-green"></i> Contra espionaje industrial (fuga de información)</li>
                     <li><i class="fa fa-check color-green"></i> Técnicas de rescate</li>
                     <li><i class="fa fa-check color-green"></i> Comunicaciones y uso de equipos electrónicos</li>
                 </ul>
                 <br/>
                 <blockquote class="hero-unify">
-                    <p class="text-justify">Nuestro potencial profesional humano se encuentra respaldado por la utilización de los avances tecnológicos más modernos en Control Interno, Auditoria, Selección e Investigación de Personal, Protección Física, Canina, Seguridad Electrónica, Investigaciones y Proyectos.</p>
+                    <p class="text-justify">Nuestro potencial profesional humano se encuentra respaldado por la utilización de los avances tecnológicos más modernos en control interno, auditoria, selección e investigación de personal, protección física, canina, seguridad electrónica, investigaciones y proyectos.</p>
                 </blockquote>
             </div>
         </div>

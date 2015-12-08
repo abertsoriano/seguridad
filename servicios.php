@@ -54,7 +54,7 @@
 			        <div class="tab-pane fade" id="loss-control">
 			        	<img src="assets/img/servicios/servicios02.jpg" class="img-responsive" />
 			        	<div class="headline">
-			            	<h3>Loss Control</h3>
+			            	<h3>VIGILANCIA Y CONTROL</h3>
 			        	</div>
 			            <h4>MISION</h4>
 			            <p>La misión del Area de Control de CONTROL EMPRESARIAL GROUP, es prevenir actos delictivos y negativos contra la seguridad de personas, instalaciones, bienes, propiedades y mercancías de empresas e instituciones, dando valores agregados como:</p>
@@ -86,7 +86,8 @@
 		                <p>La labor de seguimiento y control realizada por la Supervisión de CONTROL EMPRESARIAL GROUP, garantiza el alto nivel de calidad de los servicios prestados.</p>
 			        </div>
 			        <div class="tab-pane fade" id="investigaciones">
-			            <img src="assets/img/servicios/servicios03.jpg" class="img-responsive" />
+			            <img src="assets/img/servicios/servicios03.jpg" class="img-responsive center-block" />
+			            <br>
 			        	<div class="headline">
 			            	<h3>Investigaciones</h3>
 			        	</div>
@@ -251,7 +252,16 @@ La optimización de recursos de servicios de seguridad ciudadana y una adecuada 
 			        <div class="tab-pane fade" id="capacitacion-instruccion">
 			        	<img src="assets/img/gallery/05.jpg" class="img-responsive">
 			        	<br>
-			        	<hr>
+			        	<div class="headline">
+			        		<h4>Servicios complementarios</h4>
+			        	</div>
+			        	<ul>
+			        		<li>Prevención de riesgos.</li>
+			        		<li>Prevención de pérdidas.</li>
+			        		<li>Asesoría diseño y construcción de barreras físicas  y perimetrales.</li>
+			        		<li>Auditoria, supervisión y control de servicios de seguridad y vigilancia.</li>
+			        		<li>Capacitación  en protección para ejecutivos y prominentes.</li>
+			        	</ul>
 			        	<br>
 			        	<img src="assets/img/gallery/09.jpg" class="img-responsive center-block">
 			        </div>
