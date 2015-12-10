@@ -14,7 +14,7 @@
 			<div class="col-sm-3">
 			    <ul class="nav nav-pills nav-stacked">
 			        <li class="active"><a href="#seguridad-integral" data-toggle="tab" aria-expanded="false"><i class="fa fa-arrow-circle-right "></i> Seguridad Integral</a></li>
-			        <li><a href="#loss-control" data-toggle="tab" aria-expanded="false"><i class="fa fa-arrow-circle-right "></i> Loss Control</a></li>
+			        <li><a href="#loss-control" data-toggle="tab" aria-expanded="false"><i class="fa fa-arrow-circle-right "></i> Vigilancia y Control</a></li>
 			        <li><a href="#investigaciones" data-toggle="tab" aria-expanded="false"><i class="fa fa-arrow-circle-right "></i> Investigaciones</a></li>
 			        <li><a href="#control-eventos-vip" data-toggle="tab" aria-expanded="true"><i class="fa fa-arrow-circle-right "></i> Control de eventos VIP</a></li>
 			        <li><a href="#proteccion-vip" data-toggle="tab" aria-expanded="true"><i class="fa fa-arrow-circle-right "></i> Protección Prominentes VIP</a></li>
