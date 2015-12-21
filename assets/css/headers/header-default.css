@@ -180,7 +180,7 @@
 	z-index: 1;
 	margin: 6px 0;
 	position: relative;
-	width: 90px
+	width: 90px;
 }
 
 /*Big Logo Style*/
@@ -1064,10 +1064,11 @@
 	.header-fixed .header.header-fixed-shrink .logo span {
 		display: inline-block;
 		padding-top: 42px;
-		margin-bottom: 25px;
+		margin-bottom: 0;
 	}
 	.header-fixed .header.header-fixed-shrink #bandera_peru {
-		display: none;
+		margin-top: 36px;
+		width: 56px;
 	}
 
 	/*Navbar Nav*/

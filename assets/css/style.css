@@ -26,11 +26,22 @@ body.header-fixed-space {
 body.header-fixed-space-v2 {
 	padding-top: 135px;
 }
+.title-info {
+	line-height: 1;
+	margin-top: 10px;
+	display: inline-block;
+}
+.title-info p {
+	margin-bottom: 36px;
+}
 
 @media (max-width: 991px) {
 	body.header-fixed-space,
 	body.header-fixed-space-v2 {
 		padding-top: 0;
+	}
+	a.logo span {
+		font-size: 2em !important
 	}
 }
 
@@ -124,6 +135,9 @@ a.logo span {
 	.purchase .btn-buy a {
 		margin-top: 25px;
 		font-size: 16px;
+	}
+	.title-info p {
+		display: none;
 	}
 }
 
@@ -882,6 +896,9 @@ ul.blog-tags a:hover i {
 	.title-box p {
 		font-size: 15px;
 	}
+	.title-info {
+		display: block !important
+	}
 }
 
 .block-blockquote {
@@ -963,12 +980,6 @@ ul.labels-demo li {
 
 .badge-sidebar {
 	border-left: solid 1px #eee;
-}
-
-@media (max-width: 991px) {
-	.badge-sidebar {
-		border-left: none;
-	}
 }
 
 /*Line Icon Page

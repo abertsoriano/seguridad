@@ -52,7 +52,10 @@ $path = array_pop($url);
 	        <div class="container">
 	            <a class="logo" href="index.php">
 	            	<img src="assets/img/logo.jpg" alt="Logo">
-	            	<span>CONTROL EMPRESARIAL GROUP S.A.C.</span>
+                    <div class="title-info">
+	            	  <span>CONTROL EMPRESARIAL GROUP S.A.C.</span>
+                      <p>Nosotros protegemos sus inversiones y damos seguridad a Ud. y Familia</p>
+                    </div>
 	            </a>
 	            <div class="topbar hidden-xs">
 	                <img src="assets/img/bandera_peru.png" alt="Bandera perú" id="bandera_peru">
