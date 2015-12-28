@@ -7,7 +7,7 @@
       js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.5&appId=1426353227648638";
       fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));</script>
-    <div class="breadcrumbs breadcrumbs-dark">
+    <div class="breadcrumbs breadcrumbs-dark hidden-sm hidden-md hidden-lg">
         <div class="container">
             <h4 class="text-center" style="color: #fff;">Nosotros protegemos sus inversiones y damos seguridad a Ud. y Familia</h4>
         </div>
