@@ -1,6 +1,9 @@
 <?php include 'tpl/header.tpl.php' ?>
 <div class="breadcrumbs breadcrumbs-dark">
         <div class="container">
+        	<div class="hidden-sm hidden-md hidden-lg">
+                <h4 class="text-center" style="color: #fff;">Nosotros protegemos sus inversiones y damos seguridad a Ud. y Familia</h4>
+            </div>
             <h1 class="pull-left">Nuestros Servicios</h1>
             <ul class="pull-right breadcrumb">
                 <li><a href="index.php">Inicio</a></li>
