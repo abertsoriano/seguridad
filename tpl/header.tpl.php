@@ -15,35 +15,12 @@ $path = array_pop($url);
 ">
     <meta name="description" content="">
     <meta name="author" content="">
+    <meta property="og:url" content="http://<?php echo $_SERVER['HTTP_HOST'] ?>" />
+    <meta property="og:image" content="http://www.controlempresarialgroup.com/assets/img/main/bloque2.jpg" />
+    <meta property="og:description" content="Servicio de Vigilancia y Control de Accesos" />
 
-    <!-- Favicon -->
     <link rel="shortcut icon" href="favicon.ico">
-    <!-- CSS Global Compulsory -->
-    <link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/style.css">
-
-    <!-- CSS Header and Footer -->
-    <link rel="stylesheet" href="assets/css/headers/header-default.css">
-    <link rel="stylesheet" href="assets/css/footers/footer-v1.css">
-
-    <!-- CSS Implementing Plugins -->
-    <link rel="stylesheet" href="assets/plugins/animate.css">
-<!--     <link rel="stylesheet" href="assets/plugins/line-icons/line-icons.css"> -->
-    <link rel="stylesheet" href="assets/plugins/font-awesome/css/font-awesome.min.css">
-    <link rel="stylesheet" href="assets/plugins/parallax-slider/css/parallax-slider.css">
-    <link rel="stylesheet" href="assets/plugins/owl-carousel/owl-carousel/owl.carousel.css">
-    <link rel="stylesheet" href="assets/plugins/sky-forms-pro/skyforms/css/sky-forms.css">
-    <link rel="stylesheet" href="assets/plugins/sky-forms-pro/skyforms/custom/custom-sky-forms.css">
-    <link rel="stylesheet" href="assets/plugins/fancybox/source/jquery.fancybox.css">
-
-    <!--[if lt IE 9]><link rel="stylesheet" href="assets/plugins/sky-forms-pro/skyforms/css/sky-forms-ie8.css"><![endif]-->
-	<link rel="stylesheet" href="assets/css/pages/page_contact.css">
-    <!-- CSS Theme -->
-    <link rel="stylesheet" href="assets/css/theme-colors/default.css" id="style_color">
-    <link rel="stylesheet" href="assets/css/theme-skins/dark.css">
-
-    <!-- CSS Customization -->
-    <link rel="stylesheet" href="assets/css/custom.css">
+    <link rel="stylesheet" href="assets/css/style.min.css">
 </head>
 
 <body class="header-fixed">
